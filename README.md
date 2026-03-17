@@ -13,8 +13,8 @@ Deep Learning recommendation system deployed as a Flask API.
 
 API/
   helper/
-    formatter.py
-  app.py
+    formatter.py  
+  app.py - Run this file first this is Server.py kindof.  
 
 Model/
   recommendation_model.keras
